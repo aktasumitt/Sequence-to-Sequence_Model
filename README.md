@@ -1,4 +1,4 @@
-# Basic_CNN_Model:
+# Sequence to Sequence Model:
 
 ## Introduction:
 
